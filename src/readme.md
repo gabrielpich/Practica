@@ -1,5 +1,1 @@
-"At vero eos hola accusamus hola iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores hola quas molestias excepturi sint occaecati 
-cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum hola dolorum fuga. hola harum quidem rerum facilis est hola expedita distinctio.
- Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. 
- Temporibus autem quibusdam hola aut officiis debitis aut rerum necessitatibus saepe evenihola ut hola voluptates repudiandae sint hola molestiae non recusandae.
-Itaque earum rerum hic tenholaur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat."
+:PLS:
